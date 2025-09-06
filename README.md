@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Giannina Olmos  
 
 💼 **Marketing & Communications Professional** with a background in Business Administration, specialization in Neuromarketing, and strong knowledge in Artificial Intelligence.  
+
 📊 Passionate about **data-driven decision-making**, digital strategy, and continuous learning.  
+
 🌍 Currently based in Spain, with international and multicultural experience.  
 
 ## 🔧 Skills
