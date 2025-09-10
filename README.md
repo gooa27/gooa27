@@ -25,17 +25,13 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gi.olmosaraya@gmail.com)
 
-**Contacta conmigo:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giannina-olmos)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gi.olmosaraya@gmail.com)
 
 **Contacta conmigo:**
 
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/giannina-olmos)
 
-[![Email](https://upload.wikimedia.org/wikipedia/commons/c/cb/Gmail_Icon.png)](mailto:gi.olmosaraya@gmail.com)
+[![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg)](mailto:gi.olmosaraya@gmail.com)
 
 
 
