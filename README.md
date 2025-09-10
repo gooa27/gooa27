@@ -19,7 +19,8 @@
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/giannina-olmos
-- Email: gi.olmosaraya@gmail.com
+- ##Gmail
+  Email: gi.olmosaraya@gmail.com
 
 
 
