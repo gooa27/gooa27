@@ -26,6 +26,15 @@
 <a href="mailto:gi.olmosaraya@gmail.com" target="_blank">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="30"/>
 </a>
+-----
 
+<a href="https://www.linkedin.com/in/giannina-olmos" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="100" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
+<a href="mailto:gi.olmosaraya@gmail.com" target="_blank">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Gmail"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gooa27&theme=blux&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
