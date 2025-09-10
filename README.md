@@ -32,7 +32,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="100" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-
 <a href="mailto:gi.olmosaraya@gmail.com" target="_blank">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Gmail"/>
 </a>
