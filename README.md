@@ -20,41 +20,9 @@
 ## 📫 Contact
 
 <a href="https://www.linkedin.com/in/giannina-olmos" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="100" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:gi.olmosaraya@gmail.com" target="_blank">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Gmail"/>
-</a>
-
-----
-
-
-<a href="https://www.linkedin.com/in/giannina-olmos" target="_blank">
-  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="22px"/>
-</a>
-
-<a href="mailto:gi.olmosaraya@gmail.com" target="_blank">
-  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" width="22px"/>
-</a>
-
-----
-
-<a href="https://www.linkedin.com/in/giannina-olmos" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="80"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:gi.olmosaraya@gmail.com" target="_blank">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="25"/>
-</a>
-
-====
-
-<a href="https://www.linkedin.com/in/giannina-olmos" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="LinkedIn" width="30"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:gi.olmosaraya@gmail.com" target="_blank">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="30"/>
 </a>
