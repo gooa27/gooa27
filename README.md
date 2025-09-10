@@ -18,14 +18,18 @@
 - 🎯 **Neuromarketing & AI** → Mini-projects combining psychology, marketing, and artificial intelligence.  
 
 ## 📫 Contact
+<p>
+  <a href="https://www.linkedin.com/in/giannina-olmos" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="LinkedIn" width="30"/>
+  </a>
+  <a href="mailto:gi.olmosaraya@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="30"/>
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/giannina-olmos" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="LinkedIn" width="30"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:gi.olmosaraya@gmail.com" target="_blank">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="30"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gooa27&theme=blux&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gooa27&theme=blux&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
+</p>
+
