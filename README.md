@@ -19,13 +19,12 @@
 
 ## 📫 Contact
 
-
-
 **Contacta conmigo:**
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.svg)](https://www.linkedin.com/in/giannina-olmos)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/giannina-olmos)
 
 [![Email](https://upload.wikimedia.org/wikipedia/commons/c/cb/Gmail_Icon.png)](mailto:gi.olmosaraya@gmail.com)
+
 
 
 
