@@ -31,7 +31,7 @@
 
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/giannina-olmos)
 
-[![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg)](mailto:gi.olmosaraya@gmail.com)
+[![Gmail](https://cdn.simpleicons.org/gmail/EA4335)](mailto:gi.olmosaraya@gmail.com)
 
 
 
