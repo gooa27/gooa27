@@ -19,24 +19,14 @@
 
 ## 📫 Contact
 
-**Contacta conmigo:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giannina-olmos)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gi.olmosaraya@gmail.com)
+<a href="https://www.linkedin.com/in/giannina-olmos" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="100" alt="LinkedIn"/>
+</a>
 
 
-
-**Contacta conmigo:**
-
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/giannina-olmos)
-
-[![Gmail](https://cdn.simpleicons.org/gmail/EA4335)](mailto:gi.olmosaraya@gmail.com)
-
-
-
-
-
+<a href="mailto:gi.olmosaraya@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Gmail"/>
+</a>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gooa27&theme=blux&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
